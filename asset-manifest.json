@@ -1,9 +1,9 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.5eb92563.css",
-    "main.js": "/Portfolio/static/js/main.2f6ba3f6.js",
+    "main.js": "/Portfolio/static/js/main.c87780d7.js",
     "static/js/787.128fc6e9.chunk.js": "/Portfolio/static/js/787.128fc6e9.chunk.js",
-    "static/media/Divya-CV.pdf": "/Portfolio/static/media/Divya-CV.9731d7062074ad8ba085.pdf",
+    "static/media/Divya-CV.pdf": "/Portfolio/static/media/Divya-CV.9aa6d36097fec2b15403.pdf",
     "static/media/profile-picture.jpg": "/Portfolio/static/media/profile-picture.3d03c03f3074ef579ab2.jpg",
     "static/media/Poppins-Thin.ttf": "/Portfolio/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
     "static/media/Poppins-Light.ttf": "/Portfolio/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
@@ -15,11 +15,11 @@
     "static/media/bg.jpg": "/Portfolio/static/media/bg.80fdcbc9367b2904ad40.jpg",
     "index.html": "/Portfolio/index.html",
     "main.5eb92563.css.map": "/Portfolio/static/css/main.5eb92563.css.map",
-    "main.2f6ba3f6.js.map": "/Portfolio/static/js/main.2f6ba3f6.js.map",
+    "main.c87780d7.js.map": "/Portfolio/static/js/main.c87780d7.js.map",
     "787.128fc6e9.chunk.js.map": "/Portfolio/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5eb92563.css",
-    "static/js/main.2f6ba3f6.js"
+    "static/js/main.c87780d7.js"
   ]
 }
