@@ -1,8 +1,13 @@
 import React from "react";
 import Typical from "react-typical";
+import { Document, pdfjs } from "react-pdf";
 import "./Profile.css";
 
+pdfjs.GlobalWorkerOptions.workerSrc = `https://cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
+
 const Profile = () => {
+  const pdfPath = require("../../../assets/Home/Divya-cv.pdf");
+
   return (
     <div className="profile-container">
       <div className="profile-parent">
@@ -41,15 +46,19 @@ const Profile = () => {
           </div>
 
           <div className="profile-options">
-            <a href="Divya CV.pdf" download="Divya CV.pdf">
-              <button className="btn highlighted-btn">Get Resume</button>
-            </a>
+            <button
+              onClick={() => window.open(pdfPath, "_blank")}
+              className="btn highlighted-btn">
+              Get Resume
+            </button>
+            <Document file={pdfPath}></Document>
           </div>
         </div>
 
         <div className="profile-picture">
           <div className="profile-picture-background"></div>
         </div>
+        
       </div>
     </div>
   );

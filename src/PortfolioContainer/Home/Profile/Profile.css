@@ -9,7 +9,7 @@
 }
 
 .profile-parent
-{
+{ 
     display: flex;
     align-items: center;
     color: aliceblue;
@@ -129,6 +129,8 @@
         width: 120px;
         padding: 11px 0;
         z-index: 700;
+        margin-left: auto;
+        margin-right: auto;
     }
 }
 
@@ -139,6 +141,11 @@
         height: 320px;
         width: 320px;
         margin: 0 0 0 4px;
+    }
+    .profile-options .highlighted-btn
+    {
+        margin-left: auto;
+        margin-right: auto;
     }
 }
 
@@ -164,7 +171,8 @@
     }
     .profile-options .highlighted-btn
     {
-        margin: 0 !important;
+        margin-left: auto;
+        margin-right: auto;
     }
     .profile-options,
     .profile-details-role
@@ -184,5 +192,10 @@
     .profile-details
     {
         width: 90%;
+    }
+    .profile-options .highlighted-btn
+    {
+        margin-left: auto;
+        margin-right: auto;
     }
 }

@@ -5,11 +5,11 @@ const Projects = () => {
     const projects = [
         {
             title : 'The Fit Club',
-            description : 'front end website using react'
+            description : 'Frontend website using react'
         },
         {
             title : 'Gold Price Prediction',
-            description : 'website for predicting gold price using ML and Django'
+            description : 'Website for predicting gold price using ML and Django'
         }
     ]
   return (
