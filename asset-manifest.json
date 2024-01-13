@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Divya-rajavat/Portfolio.git/static/css/main.c53fafd2.css",
-    "main.js": "/Divya-rajavat/Portfolio.git/static/js/main.1c548e75.js",
-    "static/js/787.128fc6e9.chunk.js": "/Divya-rajavat/Portfolio.git/static/js/787.128fc6e9.chunk.js",
-    "static/media/Divya-cv.pdf": "/Divya-rajavat/Portfolio.git/static/media/Divya-cv.9aa6d36097fec2b15403.pdf",
-    "static/media/profile-picture.jpg": "/Divya-rajavat/Portfolio.git/static/media/profile-picture.3d03c03f3074ef579ab2.jpg",
-    "static/media/Poppins-Thin.ttf": "/Divya-rajavat/Portfolio.git/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
-    "static/media/Poppins-Light.ttf": "/Divya-rajavat/Portfolio.git/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
-    "static/media/Poppins-Regular.ttf": "/Divya-rajavat/Portfolio.git/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
-    "static/media/Poppins-Medium.ttf": "/Divya-rajavat/Portfolio.git/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
-    "static/media/Poppins-SemiBold.ttf": "/Divya-rajavat/Portfolio.git/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
-    "static/media/Poppins-Bold.ttf": "/Divya-rajavat/Portfolio.git/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
-    "static/media/Poppins-ExtraBold.ttf": "/Divya-rajavat/Portfolio.git/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
-    "static/media/bg.jpg": "/Divya-rajavat/Portfolio.git/static/media/bg.80fdcbc9367b2904ad40.jpg",
-    "index.html": "/Divya-rajavat/Portfolio.git/index.html",
-    "main.c53fafd2.css.map": "/Divya-rajavat/Portfolio.git/static/css/main.c53fafd2.css.map",
-    "main.1c548e75.js.map": "/Divya-rajavat/Portfolio.git/static/js/main.1c548e75.js.map",
-    "787.128fc6e9.chunk.js.map": "/Divya-rajavat/Portfolio.git/static/js/787.128fc6e9.chunk.js.map"
+    "main.css": "/Portfolio.git/static/css/main.df26a85b.css",
+    "main.js": "/Portfolio.git/static/js/main.4d79e9d2.js",
+    "static/js/787.128fc6e9.chunk.js": "/Portfolio.git/static/js/787.128fc6e9.chunk.js",
+    "static/media/Divya-cv.pdf": "/Portfolio.git/static/media/Divya-cv.9aa6d36097fec2b15403.pdf",
+    "static/media/profile-picture.jpg": "/Portfolio.git/static/media/profile-picture.3d03c03f3074ef579ab2.jpg",
+    "static/media/Poppins-Thin.ttf": "/Portfolio.git/static/media/Poppins-Thin.a61eaf4c2e4d44d6db6a.ttf",
+    "static/media/Poppins-Light.ttf": "/Portfolio.git/static/media/Poppins-Light.f41b63c0bb0963ace821.ttf",
+    "static/media/Poppins-Regular.ttf": "/Portfolio.git/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Poppins-Medium.ttf": "/Portfolio.git/static/media/Poppins-Medium.9e1bb626874ed49aa343.ttf",
+    "static/media/Poppins-SemiBold.ttf": "/Portfolio.git/static/media/Poppins-SemiBold.cce5625b56ec678e4202.ttf",
+    "static/media/Poppins-Bold.ttf": "/Portfolio.git/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/Portfolio.git/static/media/Poppins-ExtraBold.4ed78cd5d64af4efc3c7.ttf",
+    "static/media/bg.jpg": "/Portfolio.git/static/media/bg.80fdcbc9367b2904ad40.jpg",
+    "index.html": "/Portfolio.git/index.html",
+    "main.df26a85b.css.map": "/Portfolio.git/static/css/main.df26a85b.css.map",
+    "main.4d79e9d2.js.map": "/Portfolio.git/static/js/main.4d79e9d2.js.map",
+    "787.128fc6e9.chunk.js.map": "/Portfolio.git/static/js/787.128fc6e9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c53fafd2.css",
-    "static/js/main.1c548e75.js"
+    "static/css/main.df26a85b.css",
+    "static/js/main.4d79e9d2.js"
   ]
 }
