@@ -10,6 +10,9 @@ const Footer = () => {
       <a href="https://www.linkedin.com/in/divya-rajavat-430383281/">
         <i className="fa fa-linkedin"></i>
       </a>
+      <a href="https://www.instagram.com/.divya.rajavat.08?utm_source=qr&igsh=aTBpdHU2Z2I3dDEx/">
+        <i className="fa fa-instagram"></i>
+      </a>
       <a href="https://www.youtube.com/channel/UChl0RzN1LENGk2MwegBQ5Ew">
         <i className="fa fa-youtube"></i>
       </a>

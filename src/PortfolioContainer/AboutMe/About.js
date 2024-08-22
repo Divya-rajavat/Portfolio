@@ -34,7 +34,7 @@ const About = () => {
         <div className='about-container'>
             <div className='row'> 
                 <div className='about-col-1'>
-                    <img src={require ("../../assets/Home/profile-picture.jpg")} 
+                    <img src={require ("../../assets/About/profile.jpg")} 
                     alt=' ' />
                 </div>
                 <div className='about-col-2'>

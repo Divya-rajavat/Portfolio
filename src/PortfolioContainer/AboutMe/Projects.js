@@ -4,8 +4,9 @@ import './Project.css'
 const Projects = () => {
     const projects = [
         {
-            title : 'The Fit Club',
-            description : 'Frontend website using react'
+            title : 'Instant  Resume Builder',
+            description : 'Frontend website using react where, you can build your Resume',
+            url : "https://divya-rajavat.github.io/Instant-Resume-Builder/"
         },
         {
             title : 'Gold Price Prediction',
@@ -20,6 +21,7 @@ const Projects = () => {
                 <li key={index}>
                     <h4>{project.title}</h4>
                     <p className='project-info'>{project.description}</p>
+                    <a href={project.url} target="_blank" rel="noopener noreferrer">View Project</a>
                 </li>
             ))}
         </ul>
